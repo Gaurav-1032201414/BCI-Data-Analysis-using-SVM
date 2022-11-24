@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=QIWswAOFp8w : OpenBCI knowledge
+
+
+https://www.youtube.com/watch?v=S87FV-Q59F8 : Assembly
+
+https://docs.openbci.com/AddOns/Headwear/MarkIV/ : port positioning
+
+https://github.com/OpenBCI/OpenBCI_GUI : OpenBCI GUI
+
+https://in.mathworks.com/matlabcentral/fileexchange : Code Snippides
+https://in.mathworks.com/help/matlab/ref/fft.html
+
+https://docs.openbci.com/ForDevelopers/SoftwareDevelopment/ : Documentation
